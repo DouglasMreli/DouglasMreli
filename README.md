@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Douglas Mareli
 
-- 👀 I’m interested in improve my code skills 
+- 👀 I’m interested in improve my coding skills 
 - 🌱 I’m currently learning python
 - 😄 Pronoums: he/him
 ##

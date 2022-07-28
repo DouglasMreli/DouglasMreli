@@ -13,7 +13,9 @@
   <img align="center" alt="C" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
   <img align="center" alt="C++" height="30" width="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   <img align="center" alt="Python" height="30" width="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img align="center" alt="kotlin" height="30" width="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+  <img align="center" alt="Java" height="30" width="30" src="https://img.icons8.com/color/344/java-coffee-cup-logo--v1.png"/>
+  <img align="center" alt="Java Script" height="30" width="30" src="https://img.icons8.com/color/344/javascript--v2.png"/>
+  <img align="center" alt="React Native" height="30" width="30" src="https://img.icons8.com/nolan/344/react-native.png"/>
   
   <img align="right" img src="https://img.icons8.com/office/160/000000/jake.png"/>
   
